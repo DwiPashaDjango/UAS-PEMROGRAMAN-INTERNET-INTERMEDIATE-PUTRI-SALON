@@ -5,7 +5,6 @@ Aplikasi ini merupakan tugas kelompok mata kuliah RPL (Rekaya Perangkat Lunak) &
 ## Developer/Pembuat Aplikasi
 
 - [@Raden Muhamad Rama Poetra Ardiningrat](https://www.instagram.com/rramapoetra/)
-- [@Laeli Jamilah](https://www.instagram.com/laelijmilh/)
 - [@Dwi Pasha Anggara Putra](https://www.instagram.com/dwi_pasha_/)
 
 
