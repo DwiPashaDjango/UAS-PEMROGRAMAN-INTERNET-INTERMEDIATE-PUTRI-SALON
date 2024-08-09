@@ -1,6 +1,6 @@
-# LuxBliss Vogue
+# Putri Salon
 
-Aplikasi ini merupakan tugas kelompok mata kuliah RPL (Rekaya Perangkat Lunak) & Agile Scrum Introduction. Aplikasi ini bertujuan untuk memudahkan penyewaan Kebaya & Jas di sekitar daerah cirebon
+Aplikasi ini merupakan tugas kelompok mata kuliah Pemorgraman Internet Intermediate. Aplikasi ini bertujuan untuk memudahkan penyewaan Kebaya & Jas di sekitar daerah cirebon
 
 ## Developer/Pembuat Aplikasi
 
