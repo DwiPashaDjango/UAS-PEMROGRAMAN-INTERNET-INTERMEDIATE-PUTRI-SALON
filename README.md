@@ -10,12 +10,12 @@ Aplikasi ini merupakan tugas kelompok mata kuliah Pemorgraman Internet Intermedi
 
 ## Penggunan Aplikasi
 
-buka direktori project di terminal anda lalu masuk ke direktori folder LuxBliss Vogue dan ketikan kode di bawah ini
+buka direktori project di terminal anda lalu masuk ke direktori folder Putri Salon dan ketikan kode di bawah ini
 ```php
 cp .env.example .env
 ```
 
-Setelah memasukan code di atas masukan juga kode berikut untuk menginstall library yang di gunakan aplikasi LuxBliss Vogue
+Setelah memasukan code di atas masukan juga kode berikut untuk menginstall library yang di gunakan aplikasi Putri Salon
 ```php
 composer install
 ```
